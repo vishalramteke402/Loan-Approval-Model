@@ -28,5 +28,4 @@ The model is trained using **Scikit-learn** and integrated with Streamlit for an
 
 ---
 
-## 🧩 Project Structure
 
